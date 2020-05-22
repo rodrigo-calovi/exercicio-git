@@ -1,0 +1,1 @@
+text.txt criado para add Text
